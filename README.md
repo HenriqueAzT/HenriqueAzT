@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in programming
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java and Kotlin
 
 - 📫 How to reach me: henriqueazarat@gmail.com
          
