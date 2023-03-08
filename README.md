@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-de-azara-tosta-690799219/)
 
-![HenriqueAzT GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueAzT&show_icons=true&theme=radical)
+![HenriqueAzT GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueAzT&show_icons=true&theme=radical&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAzT&layout=compact&theme=dracula)
 
