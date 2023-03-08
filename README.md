@@ -6,7 +6,7 @@
 
 ![HenriqueAzT GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueAzT&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAzT&compact)](https://github.com/HenriqueAzT/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAzT&layout=compact&theme=dracula)
 
 ## Tecnologias utilizadas no meu dia-a-dia
 
