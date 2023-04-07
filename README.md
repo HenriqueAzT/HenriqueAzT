@@ -1,6 +1,6 @@
 
 ### Olá, me chamo Henrique de Azara Tosta 👋
-#### Atualmente cursando Bacharelado de Sistemas de Informação no Instituto Federal de Goiás (IFG)🎓
+#### Atualmente cursando Bacharelado de Sistemas de Informação no Instituto Federal de Goiás (IFG) 🎓
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-de-azara-tosta-690799219/)
 
