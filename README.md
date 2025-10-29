@@ -1,25 +1,55 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=732967&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=732967&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=732967&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+de+Azara;I'm+20+years+old;I'm+from+Brazil;I+am+graduating+in+Information+Systems+;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HenriqueAzT&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center"> 
-<a href = "mailto:cmp.1a.henriqueazarat@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/henrique-de-azara-tosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=White&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=White&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=732967&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Henrique+de+Azara+👋;I'm+22+years+old;A+Mobile+%26+Web+Developer;Graduated+in+Information+Systems;From+Brazil+🇧🇷" alt="Typing SVG" /></a>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HenriqueAzT}/count.svg" /></p> 
-<br>
+  <h3>Connect with me</h3>
+  <a href="mailto:cmp.1a.henriqueazarat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-de-azara-tosta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </div>
 
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=732967&height=120&section=footer"/>
+### 💻 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>&nbsp;
+</div>
+
+---
+
+### 📊 My GitHub Stats & Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueAzT&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Henrique's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAzT&layout=compact&langs_count=8&theme=radical" alt="Henrique's Top Languages"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueAzT&theme=radical" alt="Henrique's GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueAzT&theme=radical&column=7" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HenriqueAzT/HenriqueAzT/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=HenriqueAzT&style=flat-square&color=732967" alt="Profile views"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=732967&height=120&section=footer"/>
