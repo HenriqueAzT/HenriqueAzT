@@ -3,7 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=732967&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Henrique+de+Azara+👋;I'm+22+years+old;A+Mobile+%26+Web+Developer;Graduated+in+Information+Systems;From+Brazil+🇧🇷" alt="Typing SVG" /></a>
 
 <div align="center">
-  <h3>Connect with me</h3>
+  <p>I'm a developer passionate about creating innovative and functional solutions. With a degree in Information Systems, I have a solid foundation in software development and I'm always looking to learn and apply new technologies to build amazing projects.</p>
+</div>
+
+<div align="center">
   <a href="mailto:cmp.1a.henriqueazarat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -31,25 +34,21 @@
 
 ---
 
-### 📊 My GitHub Stats & Activity
-
+### 📊 GitHub Stats & Metrics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueAzT&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Henrique's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueAzT&layout=compact&langs_count=8&theme=radical" alt="Henrique's Top Languages"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueAzT&theme=radical" alt="Henrique's GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HenriqueAzT&theme=radical&column=7" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HenriqueAzT/HenriqueAzT/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://github.com/HenriqueAzT/HenriqueAzT/blob/output/github-contribution-grid-snake.svg" alt="contribution snake">
 </div>
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=HenriqueAzT&style=flat-square&color=732967" alt="Profile views"/>
+  <p><b>Profile Views</b></p>
+  <img src="https://komarev.com/ghpvc/?username=HenriqueAzT&color=732967&style=flat-square" alt="Profile Views"/>
+  <br>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=732967&height=120&section=footer"/>
