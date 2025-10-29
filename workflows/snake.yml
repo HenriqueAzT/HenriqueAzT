@@ -1,0 +1,29 @@
+name: Generate Contribution Snake
+
+on:
+  # Roda automaticamente a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite que você rode manualmente pela aba Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push generated files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update contribution snake"
+          file_pattern: dist/*.svg
